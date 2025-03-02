@@ -4,7 +4,7 @@ from solders.pubkey import Pubkey
 from solders.instruction import Instruction
    
 from solana.rpc.types import TokenAccountOpts
-from solana.transaction import AccountMeta 
+from solana.transaction import AccountMeta  
 
 from solana.rpc.api import Client
 from solana.rpc.commitment import Commitment
